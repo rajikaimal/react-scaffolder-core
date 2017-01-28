@@ -1,6 +1,6 @@
 # react-scaffolder-core
 
-Core set of APIs used in react-scaffolder
+Core set of APIs used in react-scaffolder [DEPRECATED]
 
 > under development (unstable)
 
