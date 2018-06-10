@@ -1,5 +1,7 @@
 # react-scaffolder-core
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/react-scaffolder-core.svg)](https://greenkeeper.io/)
+
 Core set of APIs used in react-scaffolder [DEPRECATED]
 
 ## Install
